@@ -48,6 +48,7 @@ section {
 }
 .cart-icon .btn {
   padding: 0;
+  border-width: 0;
 }
 
 /* .cart-icon .btn {
